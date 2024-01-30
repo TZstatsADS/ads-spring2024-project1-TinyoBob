@@ -1,18 +1,23 @@
 # Applied Data Science @ Columbia
-## Fall 2023
+## Spring 2024
 ## Project 1: What made you happy today?
 
-![image](figs/title.jpeg)
+![image](figs/cute-smiling-animals-22-imugur.jpeg)
 
 ### [Project Description](doc/Proj1_desc.md)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
-Term: Fall 2023
+Term: Spring 2024
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: How marital and emotional status affects people's happiness?
++ This project is conducted by Tianyi Xia
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary:  
+**Background:** Marital status and emotional well-being have significant impacts on an individual's happiness. Previous research has indicated that marital status (such as single, married, divorced, widowed, separated) and emotional status (such as mood, mental health) are intricately linked to one's level of happiness. Understanding these relationships is crucial for promoting happiness and mental well-being. Therefore, this project aims to explore how marital status and emotional states influence people's happiness.  
+<br>
+**Objectives:** The objective of this project is to investigate how individuals describe happiness under different emotional states, thereby understanding the effects of marital status and emotional well-being on happiness. Specific objectives include:
+ 1. Analyzing subjective descriptions and feelings of happiness among individuals with different marital statuses (single, married, divorced, widowed, separated).
+ 2. Investigating the interaction effects between marital status and emotional states on individuals' overall happiness.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
